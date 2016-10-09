@@ -1,0 +1,36 @@
+body
+{
+	background-color: #303030;
+}
+
+.Header
+{
+	background-color: #424242;
+
+	padding: 16px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+	width: 1280px;
+	height: 60px;
+	margin: 10px auto;
+
+	text-align: center;
+	font: verdana;
+	color: #FFFFFF;
+
+	display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.FlashContent
+{
+	background-color: #424242;
+
+	padding: 16px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+	width: 1280px;
+	height: 800px;
+	margin: auto auto;
+}
